@@ -1,61 +1,44 @@
-Python-3-Bootcamp Practice Code
+# Python-3-Bootcamp Practice Code
 
-Contains practice code from the Python 3 Bootcamp. It includes various exercises, projects, and coding challenges to help reinforce Python programming skills.
+## Overview
+This repository contains my practice code from the Python 3 Bootcamp. It includes various exercises, projects, and coding challenges to help reinforce Python programming skills.
 
-Contents
+---
 
-1. Basics of Python
+### **🔹 0. Python Basics**
+- Python Object and Data Structure Basics
+- Python Comparison Operators
+- Python Statements
 
-Variables & Data Types
+### **🔹 1. Functions and OOP**
+- Methods and Functions
+- Object-Oriented Programming (OOP)
+- Modules and Packages
 
-Strings, Lists, Tuples, and Dictionaries
+### **🔹 2. Error Handling and Advanced Concepts**
+- Errors and Exception Handling
+- Python Decorators
+- Python Generators
+- Advanced Python Modules
 
-Conditional Statements and Loops
+### **🔹 3. Web Scraping & Data Handling**
+- Web Scraping (`requests`, `BeautifulSoup`)
+- Working with Images (`PIL`)
+- PDFs and Spreadsheets (`PyPDF2`, `openpyxl`)
+- Emailing with Python (`smtplib`)
 
-2. Functions and Modules
+### **🔹 4. Advanced Python Objects & GUIs**
+- Advanced Python Objects and Data Structures
+- Introduction to GUI programming (`Tkinter`)
 
-Defining Functions
+### **🔹 5. Milestone Projects**
+- Milestone Project 1
+- Milestone Project 2
+- Milestone Project 3
 
-Lambda Expressions
+---
 
-Importing and Creating Modules
-
-3. Object-Oriented Programming (OOP)
-
-Classes and Objects
-
-Inheritance and Polymorphism
-
-4. Working with Files and Exceptions
-
-File Handling (Reading & Writing Files)
-
-Exception Handling
-
-5. Advanced Python Concepts
-
-List Comprehensions
-
-Generators and Iterators
-
-Decorators
-
-6. Web Scraping and APIs
-
-Using requests and BeautifulSoup
-
-Working with APIs
-
-7. Data Science and Machine Learning Basics
-
-Numpy and Pandas Basics
-
-Matplotlib and Seaborn for Data Visualization
-
-Introduction to Scikit-Learn
-
-8. Projects and Challenges
-
-Mini Python Projects
-
-Algorithmic Challenges
+## 🔧 How to Use This Repository
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/Python-3-Bootcamp.git
