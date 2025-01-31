@@ -5,40 +5,23 @@ This repository contains my practice code from the Python 3 Bootcamp. It include
 
 ---
 
-### **🔹 0. Python Basics**
-- Python Object and Data Structure Basics
-- Python Comparison Operators
-- Python Statements
-
-### **🔹 1. Functions and OOP**
-- Methods and Functions
-- Object-Oriented Programming (OOP)
-- Modules and Packages
-
-### **🔹 2. Error Handling and Advanced Concepts**
-- Errors and Exception Handling
-- Python Decorators
-- Python Generators
-- Advanced Python Modules
-
-### **🔹 3. Web Scraping & Data Handling**
-- Web Scraping (`requests`, `BeautifulSoup`)
-- Working with Images (`PIL`)
-- PDFs and Spreadsheets (`PyPDF2`, `openpyxl`)
-- Emailing with Python (`smtplib`)
-
-### **🔹 4. Advanced Python Objects & GUIs**
-- Advanced Python Objects and Data Structures
-- Introduction to GUI programming (`Tkinter`)
-
-### **🔹 5. Milestone Projects**
-- Milestone Project 1
-- Milestone Project 2
-- Milestone Project 3
-
----
-
-## 🔧 How to Use This Repository
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/Python-3-Bootcamp.git
+00-Python Object and Data Structure Basics
+01-Python Comparison Operators
+02-Python Statements
+03-Methods and Functions
+04-Milestone Project - 1
+05-Object Oriented Programming
+06-Modules and Packages
+07-Errors and Exception Handling
+08-Milestone Project - 2
+09-Empty-Section-Skip
+10-Python Decorators
+11-Python Generators
+12-Advanced Python Modules
+13-Web-Scraping
+14-Working-with-Images
+15-PDFs-and-Spreadsheets
+16-Emailing-with-Python
+17-Advanced Python Objects and Data Structures
+18-Milestone Project - 3
+19-Bonus Material - Introduction to GUIs
